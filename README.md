@@ -4,7 +4,7 @@
 - :tv: Melhor filme da vida: Matrix
 - :headphones: Rock, Rap, Reggae, Musica eletrônica, MPB
 - :snowflake: Simplesmente a melhor época do ano
-- :computer: Techs: HTML/CSS, JS, React, NodeJS and PHP, em breve Flutter
+- :computer: Techs: HTML/CSS, JS, NodeJS and PHP
 - 📫 jonatasgamasouza@hotmail.com
 
 <!---
